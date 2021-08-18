@@ -1,4 +1,5 @@
-flask
+fastapi
+uvicorn
 tensorflow-serving-api
-gunicorn
-jsonpickle
+transformers
+sentencepiece
