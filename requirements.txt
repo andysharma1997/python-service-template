@@ -1,0 +1,4 @@
+flask
+tensorflow-serving-api
+gunicorn
+jsonpickle
